@@ -24,8 +24,6 @@
             <property name="location" value="first_line"/>
         </module>
 
-
-
         <!-- Example of sevntu.checkstyle Check usage -->
          <!-- <module name="NestedSwitchCheck"/> -->
 
